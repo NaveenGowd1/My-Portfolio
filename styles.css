@@ -316,6 +316,9 @@ header .navbar ul li a:hover {
 .social-icons a.linkedin:hover {
   background-color: #0072b1;
 }
+.social-icons a.leetcode:hover{
+  background-color: orange;
+}
 .social-icons a.dev:hover {
   background-color: #bb0000;
 }
